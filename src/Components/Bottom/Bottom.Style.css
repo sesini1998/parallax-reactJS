@@ -1,0 +1,64 @@
+.action-button-card .ant-btn{
+    font-weight: 700 !important;
+}
+
+.ant-card-body {
+    padding: 10px !important;
+}
+
+.bottom-container {
+  width: 100%;
+}
+
+.blue-button {
+  background-color: #1890ff;
+  border-color: #1890ff;
+  width: 100%;
+}
+
+.blue-button:hover,
+.blue-button:focus {
+  background-color: #1890ff;
+  border-color: #1890ff;
+}
+
+.green-button {
+  background-color: #52c41a;
+  border-color: #52c41a;
+  width: 100%;
+}
+
+.green-button:hover,
+.green-button:focus {
+  background-color: #52c41a;
+  border-color: #52c41a;
+}
+
+.yellow-button {
+  background-color: #faad14;
+  border-color: #faad14;
+  width: 100%;
+}
+
+.yellow-button:hover,
+.yellow-button:focus {
+  background-color: #faad14;
+  border-color: #faad14;
+}
+
+.blue-card {
+    background-color: #1890ff;
+}
+
+.blue-card .ant-card-body{
+   padding: 4px !important;
+   color: white;
+   font-size: 10px;
+}
+
+
+.white-card .ant-card-body{
+   padding: 4px !important;
+   font-size: 10px;
+   font-weight: 700;
+}

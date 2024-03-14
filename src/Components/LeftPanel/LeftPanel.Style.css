@@ -1,0 +1,23 @@
+.ant-table {
+    background: transparent !important;
+}
+
+.ant-table-cell {
+    background: transparent !important;
+}
+
+.ant-card {
+    border-radius: 4px !important;
+}
+.select-without-icon .ant-select{
+    width: 100%;
+}
+
+.select-with-icon .ant-select{
+    width: 100%;
+}
+
+.select-with-icon {
+    margin-bottom: 10px;
+}
+

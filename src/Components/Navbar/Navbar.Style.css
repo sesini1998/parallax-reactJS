@@ -1,0 +1,24 @@
+.nav-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-logo {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+.nav-logo p{
+    font-weight: 500;
+}
+
+
+.nav-title h1{
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: rgb(12, 12, 12);
+    text-transform: uppercase;
+}
+.nav-icons span{
+    font-weight: 500;
+}
